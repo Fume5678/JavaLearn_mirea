@@ -9,12 +9,15 @@ public class Task3 {
             arr[i] = (int) Math.round(Math.random() * 5);
         }
 
-        for (int i = 0; i < 10; i++){
+        System.out.println("Сгенеренный массив:");
+        int i = 0;
+        do {
             System.out.println(arr[i] + " ");
             res += arr[i];
-        }
-
-        System.out.println("\n" + res);
+            i++;
+        } while (i < 10);
+        System.out.println("Сумма:");
+        System.out.println(res);
 
     }
 }

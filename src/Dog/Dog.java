@@ -14,12 +14,14 @@ public class Dog {
         this.age = age;
     }
 
+    // Перевод из собачьих в человеческие
     public int humanAge(){
         return age * 7;
     }
 
     @Override
     public String toString() {
+        // Форматированный вывод
         String os = "Name: " + name + "\nAge: " + age;
         return os;
     }

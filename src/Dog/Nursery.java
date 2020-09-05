@@ -3,21 +3,24 @@ package Dog;
 public class Nursery {
     private Dog [] dogs = new Dog[0];
 
-    public void nurseryInfo()
+    public String nurseryInfo()
     {
-        System.out.println("Dogs in nursery:");
+        StringBuilder info = new StringBuilder();
+        info.append("Dogs in nursery:\n");
+
+        // Добавление в строку инфы о собаке
         for(int i = 0; i < dogs.length; i++){
-            System.out.println(dogs[i] + "\n----");
+            info.append(dogs[i].toString()).append("\n----\n");
         }
+
+        return info.toString();
     }
 
-    public void addDog(Dog newDog){
-        Dog []tmpDog = new Dog[dogs.length + 1];
-        for (int i = 0; i < dogs.length; i++){
-            tmpDog[i] = dogs[i];
-        }
-        tmpDog[dogs.length] = newDog;
-
+    public void addDog(Dog ... j){
+        // Добавление собак в массив питомника методом копирования во временный массив
+        Dog[] tmpDog = new Dog[dogs.length + j.length];
+        System.arraycopy(dogs, 0, tmpDog, 0, dogs.length);
+        System.arraycopy(j, 0, tmpDog, dogs.length, j.length);
         dogs = tmpDog;
     }
 }
