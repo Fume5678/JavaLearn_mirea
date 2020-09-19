@@ -1,4 +1,4 @@
-package Dog;
+package PracticWork_1;
 
 public class Nursery {
     private Dog [] dogs = new Dog[0];

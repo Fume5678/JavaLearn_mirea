@@ -1,4 +1,4 @@
-package Tasks;
+package PracticWork_1.Tasks;
 
 import java.io.*;
 

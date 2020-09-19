@@ -1,4 +1,4 @@
-package Tasks;
+package PracticWork_1.Tasks;
 
 public class Task5 {
     public static void doTask() {

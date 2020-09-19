@@ -1,4 +1,4 @@
-package Tasks;
+package PracticWork_1.Tasks;
 
 public class Task4 {
     public static void doTask(String []args){

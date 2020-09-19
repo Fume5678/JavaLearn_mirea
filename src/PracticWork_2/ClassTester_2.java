@@ -1,7 +1,7 @@
 package PracticWork_2;
 
-import Dog.Dog;
-import Dog.Nursery;
+import PracticWork_1.Dog;
+import PracticWork_1.Nursery;
 import SwingApp.Simple;
 
 public class ClassTester_2 {
@@ -16,7 +16,7 @@ public class ClassTester_2 {
         dog.setAge(4);
         result.append("After changing:\n").append(dog).append("\n");
 
-        result.append("\nDog to human age: ").append(dog.humanAge());
+        result.append("\nPracticWork_1.Dog to human age: ").append(dog.humanAge());
 
         // Испытание класса питомника
         result.append("\n\n=================\n");

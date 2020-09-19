@@ -1,4 +1,4 @@
-package Dog;
+package PracticWork_1;
 
 public class Dog {
     private String name;

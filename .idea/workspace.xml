@@ -20,13 +20,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba6f1416-c308-432f-81fb-e556f2896b72" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticWork_4/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticWork_5/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticWork_5/Rect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticWork_5/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticWork_5/ShapeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticWork_5/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticWork_5/Vector3f.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Start.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Start.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Start/META-INF/Start.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dog/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticWork_1/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dog/Nursery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticWork_1/Nursery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticWork_2/ClassTester_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticWork_2/ClassTester_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticWork_4/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticWork_4/Author.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tasks/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticWork_1/Tasks/Task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tasks/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticWork_1/Tasks/Task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tasks/Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticWork_1/Tasks/Task5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tasks/Task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticWork_1/Tasks/Task6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tasks/Task7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticWork_1/Tasks/Task7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Fume/Start/main.java" beforeDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +95,19 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.BookTest.testDateSet">
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ShapeTest">
     <configuration name="BookTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PracticWork_3.BookTest" />
       <module name="Start" />
@@ -109,6 +134,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ShapeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticWork_5.ShapeTest" />
+      <module name="Start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PracticWork_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BookTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Start" />
       <extension name="coverage">
@@ -120,22 +158,6 @@
       <option name="PACKAGE_NAME" value="PracticWork_3" />
       <option name="MAIN_CLASS_NAME" value="PracticWork_3.BookTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BookTest.testConcatenate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Start" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PracticWork_3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="PracticWork_3" />
-      <option name="MAIN_CLASS_NAME" value="PracticWork_3.BookTest" />
-      <option name="METHOD_NAME" value="testConcatenate" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -158,15 +180,15 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ShapeTest" />
         <item itemvalue="JUnit.BookTest.testDateSet" />
         <item itemvalue="Application.CircleTest" />
         <item itemvalue="JUnit.BookTest" />
         <item itemvalue="Application.BookTest" />
-        <item itemvalue="JUnit.BookTest.testConcatenate" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -189,7 +211,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -220,6 +244,11 @@
           <url>file://$PROJECT_DIR$/Test/PracticWork_3/BookTest.java</url>
           <line>30</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PracticWork_5/Shape.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -1,7 +1,6 @@
-package Tasks;
+package PracticWork_1.Tasks;
 
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.Random;
 
