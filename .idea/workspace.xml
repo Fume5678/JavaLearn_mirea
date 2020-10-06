@@ -23,20 +23,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba6f1416-c308-432f-81fb-e556f2896b72" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/Wave.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticWork_8/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticWork_8/Flower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticWork_8/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticWork_8/ShapesApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticWork_8/Scene2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/PracticWork_3/BookTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/PracticWork_4/Human.uml" beforeDir="false" afterPath="$PROJECT_DIR$/resource/PracticWork_4/Human.uml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticWork_5/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticWork_5/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticWork_5/ShapeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticWork_5/ShapeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticWork_5/Vector3f.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticWork_5/Vector3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resource/spriteSheet.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticWork_8/Flower.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticWork_8/ShapesApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticWork_8/ShapesApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,6 +93,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/resource" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -112,14 +104,14 @@
       <recent name="PracticWork_3" />
       <recent name="PracticWork_2" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\work\projects\Java\JavaLearning\resource" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="PracticWork_8" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="PracticWork_8" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\work\projects\Java\JavaLearning\resource" />
     </key>
   </component>
   <component name="RunManager" selected="Application.ShapesApp">
@@ -225,7 +217,8 @@
       <workItem from="1600413327023" duration="794000" />
       <workItem from="1601896884064" duration="3349000" />
       <workItem from="1601923314945" duration="6796000" />
-      <workItem from="1601967001691" duration="2033000" />
+      <workItem from="1601967001691" duration="3489000" />
+      <workItem from="1602002302540" duration="8189000" />
     </task>
     <servers />
   </component>
@@ -253,10 +246,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1601900043106" />
-    <state x="765" y="203" key="#com.intellij.ide.util.MemberChooser" timestamp="1601929620520">
+    <state x="765" y="203" key="#com.intellij.ide.util.MemberChooser" timestamp="1602013327829">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="203" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1601929620520" />
+    <state x="765" y="203" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1602013327829" />
     <state x="668" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1600413535382">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -285,38 +278,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="246" key="FileChooserDialogImpl/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1601899304636" />
-    <state width="1877" height="355" key="GridCell.Tab.0.bottom" timestamp="1601930166502">
+    <state width="1877" height="218" key="GridCell.Tab.0.bottom" timestamp="1602014759905">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="355" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1601930166502" />
-    <state width="1877" height="355" key="GridCell.Tab.0.center" timestamp="1601930166501">
+    <state width="1877" height="218" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1602014759905" />
+    <state width="1877" height="218" key="GridCell.Tab.0.center" timestamp="1602014759905">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="355" key="GridCell.Tab.0.center/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1601930166501" />
-    <state width="1877" height="355" key="GridCell.Tab.0.left" timestamp="1601930166501">
+    <state width="1877" height="218" key="GridCell.Tab.0.center/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1602014759905" />
+    <state width="1877" height="218" key="GridCell.Tab.0.left" timestamp="1602014759904">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="355" key="GridCell.Tab.0.left/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1601930166501" />
-    <state width="1877" height="355" key="GridCell.Tab.0.right" timestamp="1601930166501">
+    <state width="1877" height="218" key="GridCell.Tab.0.left/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1602014759904" />
+    <state width="1877" height="218" key="GridCell.Tab.0.right" timestamp="1602014759905">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="355" key="GridCell.Tab.0.right/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1601930166501" />
-    <state width="1877" height="355" key="GridCell.Tab.1.bottom" timestamp="1601930166502">
+    <state width="1877" height="218" key="GridCell.Tab.0.right/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1602014759905" />
+    <state width="1877" height="241" key="GridCell.Tab.1.bottom" timestamp="1602014453414">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="355" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1601930166502" />
-    <state width="1877" height="355" key="GridCell.Tab.1.center" timestamp="1601930166502">
+    <state width="1877" height="241" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1602014453414" />
+    <state width="1877" height="241" key="GridCell.Tab.1.center" timestamp="1602014453414">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="355" key="GridCell.Tab.1.center/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1601930166502" />
-    <state width="1877" height="355" key="GridCell.Tab.1.left" timestamp="1601930166502">
+    <state width="1877" height="241" key="GridCell.Tab.1.center/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1602014453414" />
+    <state width="1877" height="241" key="GridCell.Tab.1.left" timestamp="1602014453414">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="355" key="GridCell.Tab.1.left/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1601930166502" />
-    <state width="1877" height="355" key="GridCell.Tab.1.right" timestamp="1601930166502">
+    <state width="1877" height="241" key="GridCell.Tab.1.left/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1602014453414" />
+    <state width="1877" height="241" key="GridCell.Tab.1.right" timestamp="1602014453414">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="355" key="GridCell.Tab.1.right/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1601930166502" />
+    <state width="1877" height="241" key="GridCell.Tab.1.right/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1602014453414" />
     <state x="646" y="294" key="NewModule_or_Project.wizard" timestamp="1601899306905">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -325,10 +318,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1601899802477" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1602013669444">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1602013669444" />
+    <state x="-1280" y="7" width="1296" height="868" key="dock-window-1" timestamp="1602013949695">
+      <screen x="-1280" y="0" width="1280" height="984" />
+    </state>
+    <state x="-1280" y="7" width="1296" height="868" key="dock-window-1/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1602013949695" />
     <state x="364" y="210" key="new project wizard" timestamp="1601900260371">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="364" y="210" key="new project wizard/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1601900260371" />
+    <state x="756" y="267" key="refactoring.ChangeSignatureDialog" timestamp="1602011870140">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="756" y="267" key="refactoring.ChangeSignatureDialog/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1602011870140" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -344,35 +349,31 @@
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/PracticWork_8/Circle.java</url>
-          <line>41</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/PracticWork_8/Circle.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/PracticWork_8/Circle.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/PracticWork_8/ShapesApp.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/PracticWork_8/ShapesApp.java</url>
           <line>36</line>
-          <option name="timeStamp" value="20" />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PracticWork_8/Scene2.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PracticWork_8/Scene2.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PracticWork_8/Scene2.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="43" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="vertex.y" />
+        <watch expression="((Scene2)this).delay" custom="PracticWork_8.Scene2" />
       </configuration>
     </watches-manager>
   </component>
