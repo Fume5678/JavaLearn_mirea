@@ -18,8 +18,7 @@ public class ShapesApp {
         private BufferedImage image = null;
         JFrame frame;
 
-        Scene1(JFrame frame){
-            this.frame = frame;
+        Scene1(){
             try {
                 image = ImageIO.read(new File("F:\\work\\projects\\Java\\JavaLearning\\resource\\Wave.jpg"));
             }catch (IOException e){
@@ -51,7 +50,9 @@ public class ShapesApp {
     ShapesApp(){
         JFrame frame = new JFrame();
 
-        frame.add(new Scene1(frame));
+        frame.add(new Scene1()); // Задания 1-2 в сцене 1
+        frame.add(new Scene2()); // Задание 3 в сцене 2
+                                 // Можно было заморочиться с переключением сцен. Но проще уже так
         int frameWidth = 800;
         int frameHeight = 600;
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
