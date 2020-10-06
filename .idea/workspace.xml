@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -20,26 +23,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba6f1416-c308-432f-81fb-e556f2896b72" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PracticWork_5/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticWork_5/Rect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticWork_5/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticWork_5/ShapeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticWork_5/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticWork_5/Vector3f.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/Wave.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticWork_8/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticWork_8/Flower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticWork_8/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticWork_8/ShapesApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Start/META-INF/Start.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dog/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticWork_1/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dog/Nursery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticWork_1/Nursery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticWork_2/ClassTester_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticWork_2/ClassTester_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticWork_4/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticWork_4/Author.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tasks/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticWork_1/Tasks/Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tasks/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticWork_1/Tasks/Task4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tasks/Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticWork_1/Tasks/Task5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tasks/Task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticWork_1/Tasks/Task6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tasks/Task7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticWork_1/Tasks/Task7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Fume/Start/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/PracticWork_3/BookTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resource/PracticWork_4/Human.uml" beforeDir="false" afterPath="$PROJECT_DIR$/resource/PracticWork_4/Human.uml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticWork_5/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticWork_5/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticWork_5/ShapeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticWork_5/ShapeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticWork_5/Vector3f.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticWork_5/Vector3.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,11 +46,34 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/../glm-master">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="glm" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
         <option value="JUnit5 Test Class" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -80,40 +101,34 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resource/PracticWork_4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resource" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="PracticWork_3" />
       <recent name="PracticWork_2" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\work\projects\Java\JavaLearning\resource" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="PracticWork_8" />
+    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.ShapeTest">
-    <configuration name="BookTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticWork_3.BookTest" />
+  <component name="RunManager" selected="Application.ShapesApp">
+    <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticWork_8.Circle" />
       <module name="Start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticWork_3.*" />
+          <option name="PATTERN" value="PracticWork_8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,6 +150,9 @@
       </method>
     </configuration>
     <configuration name="ShapeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <envs>
+        <env name="javaFX" value="F:\work\projects\Java\javafx-sdk-11.0.2\lib" />
+      </envs>
       <option name="MAIN_CLASS_NAME" value="PracticWork_5.ShapeTest" />
       <module name="Start" />
       <extension name="coverage">
@@ -147,17 +165,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BookTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ShapesApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticWork_8.ShapesApp" />
       <module name="Start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticWork_3.*" />
+          <option name="PATTERN" value="PracticWork_8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="PracticWork_3" />
-      <option name="MAIN_CLASS_NAME" value="PracticWork_3.BookTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -178,17 +194,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.CircleTest" />
+      <item itemvalue="Application.ShapeTest" />
+      <item itemvalue="Application.Circle" />
+      <item itemvalue="Application.ShapesApp" />
+      <item itemvalue="JUnit.BookTest.testDateSet" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ShapesApp" />
+        <item itemvalue="Application.Circle" />
         <item itemvalue="Application.ShapeTest" />
         <item itemvalue="JUnit.BookTest.testDateSet" />
         <item itemvalue="Application.CircleTest" />
-        <item itemvalue="JUnit.BookTest" />
-        <item itemvalue="Application.BookTest" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -200,6 +223,9 @@
       <option name="presentableId" value="Default" />
       <updated>1599299502196</updated>
       <workItem from="1600413327023" duration="794000" />
+      <workItem from="1601896884064" duration="3349000" />
+      <workItem from="1601923314945" duration="6796000" />
+      <workItem from="1601967001691" duration="2033000" />
     </task>
     <servers />
   </component>
@@ -211,31 +237,98 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="765" y="203" key="#com.intellij.ide.util.MemberChooser" timestamp="1600414072873">
+    <state x="586" y="198" key="#Inspections" timestamp="1601924592748">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="203" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1600414072873" />
+    <state x="586" y="198" key="#Inspections/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1601924592748" />
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601900043106">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1601900043106" />
+    <state x="765" y="203" key="#com.intellij.ide.util.MemberChooser" timestamp="1601929620520">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="203" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1601929620520" />
     <state x="668" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1600413535382">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="668" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1600413535382" />
-    <state x="740" y="246" key="FileChooserDialogImpl" timestamp="1600413889375">
+    <state x="720" y="388" width="480" height="269" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1601926239364">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="246" key="FileChooserDialogImpl/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1600413889375" />
-    <state x="461" y="164" key="SettingsEditor" timestamp="1600413696016">
+    <state x="720" y="388" width="480" height="269" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1601926239364" />
+    <state x="629" y="190" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1601898095694">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1600413696016" />
+    <state x="629" y="190" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1601898095694" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601926249521">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1601926249521" />
+    <state x="778" y="475" key="DetectedRootsChooserDialog" timestamp="1601899044044">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="778" y="475" key="DetectedRootsChooserDialog/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1601899044044" />
+    <state x="827" y="269" width="503" height="630" key="EnvironmentVariablesDialog" timestamp="1601900042417">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="827" y="269" width="503" height="630" key="EnvironmentVariablesDialog/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1601900042417" />
+    <state x="740" y="246" key="FileChooserDialogImpl" timestamp="1601899304636">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="246" key="FileChooserDialogImpl/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1601899304636" />
+    <state width="1877" height="355" key="GridCell.Tab.0.bottom" timestamp="1601930166502">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="355" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1601930166502" />
+    <state width="1877" height="355" key="GridCell.Tab.0.center" timestamp="1601930166501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="355" key="GridCell.Tab.0.center/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1601930166501" />
+    <state width="1877" height="355" key="GridCell.Tab.0.left" timestamp="1601930166501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="355" key="GridCell.Tab.0.left/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1601930166501" />
+    <state width="1877" height="355" key="GridCell.Tab.0.right" timestamp="1601930166501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="355" key="GridCell.Tab.0.right/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1601930166501" />
+    <state width="1877" height="355" key="GridCell.Tab.1.bottom" timestamp="1601930166502">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="355" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1601930166502" />
+    <state width="1877" height="355" key="GridCell.Tab.1.center" timestamp="1601930166502">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="355" key="GridCell.Tab.1.center/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1601930166502" />
+    <state width="1877" height="355" key="GridCell.Tab.1.left" timestamp="1601930166502">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="355" key="GridCell.Tab.1.left/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1601930166502" />
+    <state width="1877" height="355" key="GridCell.Tab.1.right" timestamp="1601930166502">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="355" key="GridCell.Tab.1.right/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1601930166502" />
+    <state x="646" y="294" key="NewModule_or_Project.wizard" timestamp="1601899306905">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="646" y="294" key="NewModule_or_Project.wizard/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1601899306905" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1601899802477">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1601899802477" />
+    <state x="364" y="210" key="new project wizard" timestamp="1601900260371">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="364" y="210" key="new project wizard/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1601900260371" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -247,10 +340,40 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/PracticWork_5/Shape.java</url>
-          <line>12</line>
+          <line>13</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PracticWork_8/Circle.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PracticWork_8/Circle.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PracticWork_8/Circle.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PracticWork_8/ShapesApp.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PracticWork_8/ShapesApp.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="vertex.y" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
