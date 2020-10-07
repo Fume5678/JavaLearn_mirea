@@ -23,7 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba6f1416-c308-432f-81fb-e556f2896b72" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PracticWork_9/WindowInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticWork_10/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticWork_10/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticWork_10/Task3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -124,42 +126,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainApp">
-    <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticWork_8.Circle" />
-      <module name="Start" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PracticWork_8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Task3">
     <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PracticWork_9.MainApp" />
       <module name="Start" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="PracticWork_9.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ShapeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <envs>
-        <env name="javaFX" value="F:\work\projects\Java\javafx-sdk-11.0.2\lib" />
-      </envs>
-      <option name="MAIN_CLASS_NAME" value="PracticWork_5.ShapeTest" />
-      <module name="Start" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PracticWork_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,36 +153,59 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BookTest.testDateSet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticWork_10.Task1" />
       <module name="Start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticWork_3.*" />
+          <option name="PATTERN" value="PracticWork_10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="PracticWork_3" />
-      <option name="MAIN_CLASS_NAME" value="PracticWork_3.BookTest" />
-      <option name="METHOD_NAME" value="testDateSet" />
-      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticWork_10.Task2" />
+      <module name="Start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PracticWork_10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticWork_10.Task3" />
+      <module name="Start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PracticWork_10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ShapeTest" />
-      <item itemvalue="Application.Circle" />
       <item itemvalue="Application.ShapesApp" />
-      <item itemvalue="JUnit.BookTest.testDateSet" />
       <item itemvalue="Application.MainApp" />
+      <item itemvalue="Application.Task1" />
+      <item itemvalue="Application.Task2" />
+      <item itemvalue="Application.Task3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Task1" />
         <item itemvalue="Application.MainApp" />
         <item itemvalue="Application.ShapesApp" />
-        <item itemvalue="Application.Circle" />
-        <item itemvalue="Application.ShapeTest" />
-        <item itemvalue="JUnit.BookTest.testDateSet" />
       </list>
     </recent_temporary>
   </component>
@@ -379,6 +375,31 @@
           <line>22</line>
           <option name="timeStamp" value="43" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PracticWork_10/Task3.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PracticWork_10/Task3.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PracticWork_10/Task3.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PracticWork_10/Task3.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PracticWork_10/Task3.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -387,5 +408,10 @@
         <watch expression="((Scene2)this).delay" custom="PracticWork_8.Scene2" />
       </configuration>
     </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaLearn_mirea$Task2.ic" NAME="Task2 Coverage Results" MODIFIED="1602081188566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>PracticWork_10.*</FILTER>
+    </SUITE>
   </component>
 </project>
