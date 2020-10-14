@@ -20,7 +20,7 @@ public class Scene2 extends JPanel implements ActionListener{
         try {
             frames = new ImageIcon[totalFrame];
             for (int i = 0; i < totalFrame; ++i){
-                frames[i] = new ImageIcon("F:\\work\\projects\\Java\\JavaLearning\\resource\\FlowerAnim\\boy-" + (i + 1) + ".png");
+                frames[i] = new ImageIcon("E:\\Project\\Java\\JavaLearn_mirea\\resource\\FlowerAnim\\boy-" + (i + 1) + ".png");
             }
 
         } catch (Exception e){
@@ -51,7 +51,7 @@ public class Scene2 extends JPanel implements ActionListener{
             repaint();
     }
 
-    public void paintComponent (Graphics g){
+    public void paintComponent(Graphics g){
         super.paintComponent(g);
 
         if (frames[currentFrame].getImageLoadStatus() == MediaTracker.COMPLETE) {

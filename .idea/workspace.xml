@@ -23,10 +23,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba6f1416-c308-432f-81fb-e556f2896b72" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PracticWork_10/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticWork_10/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticWork_10/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticWork_11/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticWork_11/Scene4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticWork_10/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticWork_10/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticWork_8/Scene2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticWork_8/Scene2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticWork_8/ShapesApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticWork_8/ShapesApp.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -126,7 +128,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Task3">
+  <component name="RunManager" selected="Application.ShapesApp">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticWork_11.Main" />
+      <module name="Start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PracticWork_11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PracticWork_9.MainApp" />
       <module name="Start" />
@@ -166,19 +181,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticWork_10.Task2" />
-      <module name="Start" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PracticWork_10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PracticWork_10.Task3" />
       <module name="Start" />
@@ -193,19 +195,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Task3" />
+      <item itemvalue="Application.Main" />
       <item itemvalue="Application.ShapesApp" />
       <item itemvalue="Application.MainApp" />
       <item itemvalue="Application.Task1" />
-      <item itemvalue="Application.Task2" />
-      <item itemvalue="Application.Task3" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task3" />
-        <item itemvalue="Application.Task2" />
-        <item itemvalue="Application.Task1" />
-        <item itemvalue="Application.MainApp" />
         <item itemvalue="Application.ShapesApp" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MainApp" />
+        <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.Task3" />
       </list>
     </recent_temporary>
   </component>
@@ -356,11 +358,6 @@
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/PracticWork_8/ShapesApp.java</url>
-          <line>36</line>
-          <option name="timeStamp" value="26" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/PracticWork_8/Scene2.java</url>
           <line>50</line>
           <option name="timeStamp" value="39" />
@@ -374,31 +371,6 @@
           <url>file://$PROJECT_DIR$/src/PracticWork_8/Scene2.java</url>
           <line>22</line>
           <option name="timeStamp" value="43" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/PracticWork_10/Task3.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="44" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/PracticWork_10/Task3.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="46" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/PracticWork_10/Task3.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="47" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/PracticWork_10/Task3.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="48" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/PracticWork_10/Task3.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="49" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

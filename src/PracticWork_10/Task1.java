@@ -6,10 +6,10 @@ import java.util.Scanner;
 
 public class Task1 {
     public static void main(String[] args) {
-        int fsum = 15, fcnt = 3, scnt = 0;
+        int s = 15, k = 3, res = 0;
 
-        int i = (int) Math.pow(10, fcnt - 1);
-        while (i < Math.pow(10, fcnt)){
+        int i = (int) Math.pow(10, k - 1);
+        while (i < Math.pow(10, k)){
             int ssum = 0, num = i;
 
             while (num != 0){
@@ -17,13 +17,13 @@ public class Task1 {
                 num /= 10;
             }
 
-            if(ssum == fsum){
-                scnt++;
+            if(ssum == s){
+                res++;
             }
 
             i++;
         }
 
-        System.out.println(scnt);
+        System.out.println(res);
     }
 }
