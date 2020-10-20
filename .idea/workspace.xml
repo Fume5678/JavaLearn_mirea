@@ -23,12 +23,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba6f1416-c308-432f-81fb-e556f2896b72" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PracticWork_11/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticWork_11/Scene4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticWork_12/MainScene.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticWork_12/SunsetApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticWork_12/planets/Planet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticWork_12/planets/PlanetInfo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticWork_10/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticWork_10/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticWork_8/Scene2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticWork_8/Scene2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticWork_8/ShapesApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticWork_8/ShapesApp.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -106,14 +105,15 @@
       <recent name="PracticWork_3" />
       <recent name="PracticWork_2" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="PracticWork_8" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\work\projects\Java\JavaLearning\resource" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\work\projects\Java\JavaLearning\resource" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="PracticWork_12" />
+      <recent name="PracticWork_8" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -128,7 +128,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ShapesApp">
+  <component name="RunManager" selected="Application.SunsetApp">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PracticWork_11.Main" />
       <module name="Start" />
@@ -168,6 +168,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SunsetApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticWork_12.SunsetApp" />
+      <module name="Start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PracticWork_12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PracticWork_10.Task1" />
       <module name="Start" />
@@ -181,33 +194,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticWork_10.Task3" />
-      <module name="Start" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PracticWork_10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.Task3" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.ShapesApp" />
       <item itemvalue="Application.MainApp" />
       <item itemvalue="Application.Task1" />
+      <item itemvalue="Application.SunsetApp" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SunsetApp" />
         <item itemvalue="Application.ShapesApp" />
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.MainApp" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Task1" />
-        <item itemvalue="Application.Task3" />
       </list>
     </recent_temporary>
   </component>
