@@ -23,13 +23,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba6f1416-c308-432f-81fb-e556f2896b72" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PracticWork_12/MainScene.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticWork_12/SunsetApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticWork_12/planets/Planet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticWork_12/planets/PlanetInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticWork_13/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticWork_13/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwingApp/SortingStudentByGPA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwingApp/SortingStudentByID.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,19 +116,7 @@
       <recent name="PracticWork_8" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.SunsetApp">
+  <component name="RunManager" selected="Application.main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PracticWork_11.Main" />
       <module name="Start" />
@@ -181,12 +169,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticWork_10.Task1" />
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticWork_13.main" />
       <module name="Start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticWork_10.*" />
+          <option name="PATTERN" value="PracticWork_13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,20 +186,20 @@
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.ShapesApp" />
       <item itemvalue="Application.MainApp" />
-      <item itemvalue="Application.Task1" />
       <item itemvalue="Application.SunsetApp" />
+      <item itemvalue="Application.main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main" />
         <item itemvalue="Application.SunsetApp" />
         <item itemvalue="Application.ShapesApp" />
         <item itemvalue="Application.MainApp" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Task1" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -227,6 +215,7 @@
       <workItem from="1601923314945" duration="6796000" />
       <workItem from="1601967001691" duration="3489000" />
       <workItem from="1602002302540" duration="8189000" />
+      <workItem from="1603263946150" duration="3687000" />
     </task>
     <servers />
   </component>
@@ -238,13 +227,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="586" y="198" key="#Inspections" timestamp="1601924592748">
@@ -255,10 +243,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1601900043106" />
-    <state x="765" y="203" key="#com.intellij.ide.util.MemberChooser" timestamp="1602013327829">
+    <state x="765" y="203" key="#com.intellij.ide.util.MemberChooser" timestamp="1603267593765">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="203" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1602013327829" />
+    <state x="765" y="203" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1603267593765" />
     <state x="668" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1600413535382">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -287,22 +275,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="246" key="FileChooserDialogImpl/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1601899304636" />
-    <state width="1877" height="218" key="GridCell.Tab.0.bottom" timestamp="1602014759905">
+    <state width="1877" height="218" key="GridCell.Tab.0.bottom" timestamp="1603267419803">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="218" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1602014759905" />
-    <state width="1877" height="218" key="GridCell.Tab.0.center" timestamp="1602014759905">
+    <state width="1877" height="218" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1603267419803" />
+    <state width="1877" height="218" key="GridCell.Tab.0.center" timestamp="1603267419803">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="218" key="GridCell.Tab.0.center/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1602014759905" />
-    <state width="1877" height="218" key="GridCell.Tab.0.left" timestamp="1602014759904">
+    <state width="1877" height="218" key="GridCell.Tab.0.center/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1603267419803" />
+    <state width="1877" height="218" key="GridCell.Tab.0.left" timestamp="1603267419803">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="218" key="GridCell.Tab.0.left/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1602014759904" />
-    <state width="1877" height="218" key="GridCell.Tab.0.right" timestamp="1602014759905">
+    <state width="1877" height="218" key="GridCell.Tab.0.left/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1603267419803" />
+    <state width="1877" height="218" key="GridCell.Tab.0.right" timestamp="1603267419803">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="218" key="GridCell.Tab.0.right/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1602014759905" />
+    <state width="1877" height="218" key="GridCell.Tab.0.right/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1603267419803" />
     <state width="1877" height="241" key="GridCell.Tab.1.bottom" timestamp="1602014453414">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -323,10 +311,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="646" y="294" key="NewModule_or_Project.wizard/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1601899306905" />
-    <state x="461" y="164" key="SettingsEditor" timestamp="1601899802477">
+    <state x="461" y="164" key="SettingsEditor" timestamp="1603265545404">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1601899802477" />
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1603265545404" />
     <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1602013669444">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
