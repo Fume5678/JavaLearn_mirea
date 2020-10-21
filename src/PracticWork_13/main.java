@@ -18,7 +18,8 @@ public class main {
             System.out.println(i);
         }
 
-        SortingStudentByID sorter = new SortingStudentByID();
+        // По дефолту стоит параметр сортировки по ID
+        SortingStudent sorter = new SortingStudent();
         students.sort(sorter);
 
         System.out.println("\nAfter sort");
@@ -26,10 +27,20 @@ public class main {
             System.out.println(i);
         }
 
-        SortingStudentByGPA sorterGPA = new SortingStudentByGPA();
-        students.sort(sorterGPA);
+        // Устанавливаем параметр сортировки по оценкам
+        sorter.setCurrentAttr(SortingStudent.ATTR_MARK);
+        students.sort(sorter);
 
-        System.out.println("\nAfter sort GPA");
+        System.out.println("\nAfter sort mark");
+        for (var i : students){
+            System.out.println(i);
+        }
+
+        // Устанавливаем параметр сортировки по имени
+        sorter.setCurrentAttr(SortingStudent.ATTR_NAME);
+        students.sort(sorter);
+
+        System.out.println("\nAfter sort name");
         for (var i : students){
             System.out.println(i);
         }

@@ -37,4 +37,5 @@ public class Student {
     public String toString() {
         return String.format("id=%d; name=%s; group=%s; final mark=%1.2f", ID, name, groupName, finalMark);
     }
+
 }
