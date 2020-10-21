@@ -8,6 +8,7 @@ import java.util.*;
 
 public class main {
     public static void main(String[] args) {
+        long nanosec = 0;
         List<Student> students = new ArrayList<Student>();
         students.add(new Student("Саша", "ИК-3"));
         students.add(new Student("Леха", "ИК-1"));
@@ -38,13 +39,34 @@ public class main {
             System.out.println(i);
         }
 
+        // Создаем объект поисковика
         SearchingStudent searcher = new SearchingStudent();
+        // Устанавливаем аттрибуте поиска по ИМЕНИ
         searcher.setCurrentAttr(SearchingStudent.ATTR_NAME);
-        System.out.println("\nПоиск Сани");
+
+        System.out.println("\nПоиск Сани линейно");
+        nanosec = System.nanoTime();
         System.out.println(searcher.linearSearchIter(students, "Саша"));
+        System.out.println("Время поиска: " + (System.nanoTime() - nanosec) +  " нс\n");
 
-        System.out.println("\nПоиск Сани рекурсивно");
+        System.out.println("\nПоиск Сани линейно рекурсивно");
+        nanosec = System.nanoTime();
         System.out.println(searcher.linearSearchRec(students, "Саша", 0));
+        System.out.println("Время поиска: " + (System.nanoTime() - nanosec) +  " нс\n");
 
+
+        // Тест бинарного поиска.
+        // Предварительно сортируем массив
+        sorter.setCurrentAttr(SortingStudent.ATTR_NAME);
+        students.sort(sorter);
+        System.out.println("Бинарный поиск Олега");
+        nanosec = System.nanoTime();
+        System.out.println(searcher.binarySearchIter(students, "Олег"));
+        System.out.println("Время поиска: " + (System.nanoTime() - nanosec) +  " нс\n");
+
+        System.out.println("Бинарный поиск Светы");
+        nanosec = System.nanoTime();
+        System.out.println(searcher.binarySearchRec(students, 0, students.size()-1, "Света"));
+        System.out.println("Время поиска: " + (System.nanoTime() - nanosec) +  " нс\n");
     }
 }
