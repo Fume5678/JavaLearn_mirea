@@ -1,5 +1,6 @@
 package PracticWork_14;
 
+import PracticWork_13.SearchingStudent;
 import PracticWork_13.SortingStudent;
 import PracticWork_13.Student;
 
@@ -20,6 +21,7 @@ public class main {
             System.out.println(i);
         }
 
+        // Объявляем объект сортировщика и сортируем слиянием по именам
         SortingStudent sorter = new SortingStudent();
         sorter.setCurrentAttr(SortingStudent.ATTR_NAME);
         sorter.mergeSort(students, students.size());
@@ -28,11 +30,21 @@ public class main {
             System.out.println(i);
         }
 
+        // Сортируем быстрой сортировкой по айди
         sorter.setCurrentAttr(SortingStudent.ATTR_ID);
         sorter.quickSort(students, 0, students.size() - 1);
         System.out.println("\nAfter quick sort by id");
         for (var i : students){
             System.out.println(i);
         }
+
+        SearchingStudent searcher = new SearchingStudent();
+        searcher.setCurrentAttr(SearchingStudent.ATTR_NAME);
+        System.out.println("\nПоиск Сани");
+        System.out.println(searcher.linearSearchIter(students, "Саша"));
+
+        System.out.println("\nПоиск Сани рекурсивно");
+        System.out.println(searcher.linearSearchRec(students, "Саша", 0));
+
     }
 }
