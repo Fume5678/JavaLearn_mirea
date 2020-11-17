@@ -1,177 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba6f1416-c308-432f-81fb-e556f2896b72" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Start.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Start.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticWork_13/SearchingStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticWork_13/SearchingStudent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticWork_14/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticWork_14/main.java" afterDir="false" />
-    </list>
+    <list default="true" id="fe43f2f7-825b-4440-ade7-289f784f53a5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CodeStyleSettingsInfer">
-    <option name="done" value="true" />
-  </component>
-  <component name="ExternalProjectsData">
-    <projectState path="$PROJECT_DIR$/../glm-master">
-      <ProjectState />
-    </projectState>
-  </component>
-  <component name="ExternalProjectsManager">
-    <system id="GRADLE">
-      <state>
-        <projects_view>
-          <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="glm" type="f1a62948:ProjectNode" />
-              </path>
-            </expand>
-            <select />
-          </tree_state>
-        </projects_view>
-      </state>
-    </system>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
-        <option value="JUnit5 Test Class" />
-        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\Programs\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
   </component>
-  <component name="ProjectCodeStyleSettingsMigration">
-    <option name="version" value="1" />
-  </component>
-  <component name="ProjectId" id="1h5SXwsLGBPv13rnMEOyKMpWI05" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1kQdPnRdczzzc5PspEnLeCkjD2i" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="create.test.in.the.same.root" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/resource" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="PracticWork_3" />
-      <recent name="PracticWork_2" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\work\projects\Java\JavaLearn_mirea\libs" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\work\projects\Java\JavaLearning\resource" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="PracticWork_12" />
-      <recent name="PracticWork_8" />
+      <recent name="E:\work\projects\Java\JavaLearn_mirea\resource" />
+      <recent name="E:\work\projects\Java\JavaLearn_mirea\src" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.main (1)">
-    <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticWork_9.MainApp" />
-      <module name="Start" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PracticWork_9.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ShapesApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticWork_8.ShapesApp" />
-      <module name="Start" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PracticWork_8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SunsetApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticWork_12.SunsetApp" />
-      <module name="Start" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PracticWork_12.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.main (2)">
     <configuration name="main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticWork_14.main" />
-      <module name="Start" />
+      <option name="MAIN_CLASS_NAME" value="PracticWork_20.main" />
+      <module name="JavaLearn_mirea" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticWork_14.*" />
+          <option name="PATTERN" value="PracticWork_20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticWork_19.main" />
+      <module name="JavaLearn_mirea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PracticWork_19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,213 +72,70 @@
       </method>
     </configuration>
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticWork_13.main" />
-      <module name="Start" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PracticWork_13.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="JavaLearn_mirea" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <list>
-      <item itemvalue="Application.ShapesApp" />
-      <item itemvalue="Application.MainApp" />
-      <item itemvalue="Application.SunsetApp" />
-      <item itemvalue="Application.main" />
-      <item itemvalue="Application.main (1)" />
-    </list>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main (2)" />
         <item itemvalue="Application.main (1)" />
         <item itemvalue="Application.main" />
-        <item itemvalue="Application.SunsetApp" />
-        <item itemvalue="Application.ShapesApp" />
-        <item itemvalue="Application.MainApp" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ba6f1416-c308-432f-81fb-e556f2896b72" name="Default Changelist" comment="" />
-      <created>1599299502196</created>
+      <changelist id="fe43f2f7-825b-4440-ade7-289f784f53a5" name="Default Changelist" comment="" />
+      <created>1605636728663</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1599299502196</updated>
-      <workItem from="1600413327023" duration="794000" />
-      <workItem from="1601896884064" duration="3349000" />
-      <workItem from="1601923314945" duration="6796000" />
-      <workItem from="1601967001691" duration="3489000" />
-      <workItem from="1602002302540" duration="8189000" />
-      <workItem from="1603263946150" duration="11885000" />
+      <updated>1605636728663</updated>
+      <workItem from="1605636731518" duration="422000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="WindowStateProjectService">
-    <state x="586" y="198" key="#Inspections" timestamp="1601924592748">
+    <state x="666" y="261" key="FileChooserDialogImpl" timestamp="1605636814633">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="586" y="198" key="#Inspections/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1601924592748" />
-    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601900043106">
+    <state x="666" y="261" key="FileChooserDialogImpl/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1605636814633" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1605636854145">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1601900043106" />
-    <state x="765" y="203" key="#com.intellij.ide.util.MemberChooser" timestamp="1603277885644">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1605636854145" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1605636854145">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="203" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1603277885644" />
-    <state x="668" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1600413535382">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1605636854145" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1605636854145">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="668" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1600413535382" />
-    <state x="720" y="388" width="480" height="269" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1603270241854">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1605636854145" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1605636854145">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="720" y="388" width="480" height="269" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1603270241854" />
-    <state x="629" y="190" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1601898095694">
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1605636854145" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1605636816460">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="629" y="190" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1601898095694" />
-    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601926249521">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1601926249521" />
-    <state x="778" y="475" key="DetectedRootsChooserDialog" timestamp="1601899044044">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="778" y="475" key="DetectedRootsChooserDialog/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1601899044044" />
-    <state x="827" y="269" width="503" height="630" key="EnvironmentVariablesDialog" timestamp="1601900042417">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="827" y="269" width="503" height="630" key="EnvironmentVariablesDialog/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1601900042417" />
-    <state x="740" y="246" key="FileChooserDialogImpl" timestamp="1601899304636">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="740" y="246" key="FileChooserDialogImpl/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1601899304636" />
-    <state width="1877" height="240" key="GridCell.Tab.0.bottom" timestamp="1603278090082">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="240" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1603278090082" />
-    <state width="1877" height="240" key="GridCell.Tab.0.center" timestamp="1603278090082">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="240" key="GridCell.Tab.0.center/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1603278090082" />
-    <state width="1877" height="240" key="GridCell.Tab.0.left" timestamp="1603278090082">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="240" key="GridCell.Tab.0.left/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1603278090082" />
-    <state width="1877" height="240" key="GridCell.Tab.0.right" timestamp="1603278090082">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="240" key="GridCell.Tab.0.right/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1603278090082" />
-    <state width="1877" height="277" key="GridCell.Tab.1.bottom" timestamp="1603270819736">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="277" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1603270819736" />
-    <state width="1877" height="277" key="GridCell.Tab.1.center" timestamp="1603270819735">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="277" key="GridCell.Tab.1.center/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1603270819735" />
-    <state width="1877" height="277" key="GridCell.Tab.1.left" timestamp="1603270819735">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="277" key="GridCell.Tab.1.left/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1603270819735" />
-    <state width="1877" height="277" key="GridCell.Tab.1.right" timestamp="1603270819735">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="277" key="GridCell.Tab.1.right/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1603270819735" />
-    <state x="646" y="294" key="NewModule_or_Project.wizard" timestamp="1601899306905">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="646" y="294" key="NewModule_or_Project.wizard/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1601899306905" />
-    <state x="461" y="164" key="SettingsEditor" timestamp="1603265545404">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1603265545404" />
-    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1602013669444">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1602013669444" />
-    <state x="-1280" y="54" width="1296" height="729" key="dock-window-1" timestamp="1603276425558">
-      <screen x="-1280" y="0" width="1280" height="984" />
-    </state>
-    <state x="-1280" y="54" width="1296" height="729" key="dock-window-1/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1603276425558" />
-    <state x="690" y="277" key="extract.method.dialog" timestamp="1603278766717">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="690" y="277" key="extract.method.dialog/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1603278766717" />
-    <state x="364" y="210" key="new project wizard" timestamp="1601900260371">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="364" y="210" key="new project wizard/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1601900260371" />
-    <state x="756" y="267" key="refactoring.ChangeSignatureDialog" timestamp="1602011870140">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="756" y="267" key="refactoring.ChangeSignatureDialog/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1602011870140" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Test/PracticWork_3/BookTest.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/PracticWork_5/Shape.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/PracticWork_8/Scene2.java</url>
-          <line>50</line>
-          <option name="timeStamp" value="39" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/PracticWork_8/Scene2.java</url>
-          <line>56</line>
-          <option name="timeStamp" value="40" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/PracticWork_8/Scene2.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="43" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="vertex.y" />
-        <watch expression="((Scene2)this).delay" custom="PracticWork_8.Scene2" />
-      </configuration>
-    </watches-manager>
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/JavaLearn_mirea$Task2.ic" NAME="Task2 Coverage Results" MODIFIED="1602081188566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>PracticWork_10.*</FILTER>
-    </SUITE>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1605636816460" />
   </component>
 </project>
