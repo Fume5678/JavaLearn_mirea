@@ -19,15 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe43f2f7-825b-4440-ade7-289f784f53a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearn_mirea/PracticWork_20/BookHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaLearn_mirea/PracticWork_20/BookHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaLearn_mirea/PracticWork_20/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaLearn_mirea/PracticWork_20/main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticWork_19/FileHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticWork_19/FileHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticWork_20/BookHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticWork_20/BookHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticWork_20/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticWork_20/main.java" afterDir="false" />
-    </list>
+    <list default="true" id="fe43f2f7-825b-4440-ade7-289f784f53a5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,9 +53,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/resource" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -138,7 +132,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605636728663</updated>
       <workItem from="1605636731518" duration="657000" />
-      <workItem from="1605688368972" duration="1123000" />
+      <workItem from="1605688368972" duration="1470000" />
     </task>
     <servers />
   </component>
@@ -161,26 +155,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="666" y="261" key="FileChooserDialogImpl/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1605636814633" />
-    <state width="1877" height="191" key="GridCell.Tab.0.bottom" timestamp="1605689200176">
+    <state width="1877" height="233" key="GridCell.Tab.0.bottom" timestamp="1605689612887">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="191" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1605689200176" />
-    <state width="1877" height="191" key="GridCell.Tab.0.center" timestamp="1605689200176">
+    <state width="1877" height="233" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1605689612887" />
+    <state width="1877" height="233" key="GridCell.Tab.0.center" timestamp="1605689612887">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="191" key="GridCell.Tab.0.center/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1605689200176" />
-    <state width="1877" height="191" key="GridCell.Tab.0.left" timestamp="1605689200176">
+    <state width="1877" height="233" key="GridCell.Tab.0.center/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1605689612887" />
+    <state width="1877" height="233" key="GridCell.Tab.0.left" timestamp="1605689612887">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="191" key="GridCell.Tab.0.left/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1605689200176" />
-    <state width="1877" height="191" key="GridCell.Tab.0.right" timestamp="1605689200176">
+    <state width="1877" height="233" key="GridCell.Tab.0.left/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1605689612887" />
+    <state width="1877" height="233" key="GridCell.Tab.0.right" timestamp="1605689612887">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="191" key="GridCell.Tab.0.right/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1605689200176" />
-    <state x="440" y="94" key="SettingsEditor" timestamp="1605636816460">
+    <state width="1877" height="233" key="GridCell.Tab.0.right/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1605689612887" />
+    <state x="440" y="94" width="995" height="711" key="SettingsEditor" timestamp="1605689841257">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1605636816460" />
+    <state x="440" y="94" width="995" height="711" key="SettingsEditor/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1605689841257" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
