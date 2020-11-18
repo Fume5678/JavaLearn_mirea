@@ -45,4 +45,19 @@ public class FileHandler {
 
         return buff;
     }
+
+    public static void printFile(String path){
+        try {
+            FileReader file = new FileReader(path);
+
+            while (file.ready()) {
+                System.out.print((char) file.read());
+
+            }
+
+            file.close();
+        } catch (IOException e) {
+            System.out.println("ERROR:: FAILED TO READ FILE: " + e.getMessage());
+        }
+    }
 }
